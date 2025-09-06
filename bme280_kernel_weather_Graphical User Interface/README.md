@@ -1,8 +1,6 @@
 # bme280_kernel_weather_widget
 
-University project: developed kernel module (driver) (module/bme280_driver)
-for communication between Kernel- and User-Space. 
-Data processing in User Space. User Space App is written in Python (/App)
+Developed kernel module (driver) (module/bme280_driver) for communication between Kernel- and User-Space. Data processing in User Space. User Space App is written in Python (/App)
 
 ## Kernel Version
 Linux version 4.9.35-v7+
