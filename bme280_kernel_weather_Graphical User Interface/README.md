@@ -9,7 +9,7 @@ Linux version 4.9.35-v7+
 gcc version 4.9.3
 
 ## Desktop Weather
-![alt text](docs/WeatherWidget_Desktop.png?raw=true)
+https://github.com/jeremynguyenn/BME280-DriverApp/blob/main/bme280_kernel_weather_Graphical%20User%20Interface/docs/WeatherWidget.gif
 
 ## HOW TO SETUP
 
