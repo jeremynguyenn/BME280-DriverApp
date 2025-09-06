@@ -9,8 +9,9 @@ Linux version 4.9.35-v7+
 gcc version 4.9.3
 
 ## Desktop Weather
-bme280_kernel_weather_Graphical User Interface/docs/WeatherWidget.gif
-
+[bme280_kernel_weather_Graphical User Interface/docs/WeatherWidget.gif
+](https://github.com/jeremynguyenn/BME280-DriverApp/blob/main/bme280_kernel_weather_Graphical%20User%20Interface/docs/WeatherWidget.gif
+)
 ## HOW TO SETUP
 
 1. Connect Hardware as shown on the wiring diagram below
