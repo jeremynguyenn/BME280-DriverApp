@@ -47,11 +47,6 @@ Type=Application
 
 
 
-### Interacting
-![alt text](docs/Button_pressed.png.JPG?raw=true)
-
-
-
 ### Implementation
 ![alt text](docs/Diagramm.png?raw=true)
 
